@@ -3,7 +3,7 @@
 
 ## Hi there, Carlo Lobrano here 👋
 
-### I'm an Italian Software Engineer, Open source contributor and [Ubuntu member](Ubuntu member)
+### I'm an Italian Software Engineer, Open source contributor and [Ubuntu member](https://wiki.ubuntu.com/clobrano)
 
 - 💻 My main job is on Linux Embedded systems, using mostly C/C++
 - 🔧 I develop tools in Python, Golang, and Bash
