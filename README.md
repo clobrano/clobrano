@@ -8,15 +8,13 @@
 - 💻 My main job is on Linux Embedded systems, using mostly C/C++
 - 🔧 I develop tools in Python, Golang, and Bash
 - 🌯 I am one of the maintainer of [Ubuntu Yaru theme](https://github.com/ubuntu/yaru) 
-- 🐙 Here are the [projects I contributed to](https://github.com/clobrano-forks) on GitHub
+- 🐙 I have a sub-repository for the [projects I contributed to](https://github.com/clobrano-forks) on GitHub
 
 
 ### 🔭 I’m currently...
 
 - Aiming for a full time job in Open source ✨
-- Learning Kubernetes
-
-The two things above are not necessarilty connected 😀
+- Dedicated to continuous learning.
 
 
 ### 📫 Connect with me
