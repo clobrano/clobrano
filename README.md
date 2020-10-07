@@ -5,9 +5,9 @@
 
 ### I'm an Italian Software Engineer, Open source contributor and [Ubuntu member](https://wiki.ubuntu.com/clobrano)
 
-- 💻 My main job is on Linux Embedded systems, using mostly C/C++
-- 🔧 I develop tools in Python, Golang, and Bash
-- 🌯 I am one of the maintainer of [Ubuntu Yaru theme](https://github.com/ubuntu/yaru) 
+- 💻 My main job is on Linux Embedded systems, using mostly C/C++, and Python.
+- 🔧 I develop tools in [Python](https://github.com/clobrano/letsdo), [Golang](https://github.com/clobrano/sendat), and [Bash](https://github.com/clobrano/script-fu).
+- 🌯 I am one of the maintainer of [Ubuntu Yaru theme](https://github.com/ubuntu/yaru). 
 - 🐙 I have a sub-repository for the [projects I contributed to](https://github.com/clobrano-forks) on GitHub
 
 
