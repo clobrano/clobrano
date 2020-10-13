@@ -13,7 +13,7 @@
 
 ### 🔭 I’m currently...
 
-- Aiming for a full time job in Open source ✨
+- Aiming to a full time job in Open source ✨
 - Dedicated to continuous learning.
 
 
