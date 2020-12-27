@@ -25,7 +25,7 @@
 
 </div>
 
-[blog]: https://www.carlolobrano.com
+[blog]: https://blog.carlolobrano.com
 [twitter]: https://twitter.com/carlolobrano
 [linkedin]: https://www.linkedin.com/in/carlolobrano/
 
