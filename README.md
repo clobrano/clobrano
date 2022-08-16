@@ -7,7 +7,7 @@
 
 - 💻 My main job is on Linux Embedded systems, using mostly C/C++, and Python.
 - 🔧 I develop tools in [Python](https://github.com/clobrano/letsdo), [Golang](https://github.com/clobrano/sendat), and [Bash](https://github.com/clobrano/script-fu).
-- 🌯 I am one of the maintainers of the [Ubuntu Yaru theme](https://github.com/ubuntu/yaru). 
+- 🌯 ex-[Ubuntu Yaru theme](https://github.com/ubuntu/yaru) maintainer. 
 - 🐙 I have a sub-repository for the [projects I contributed to](https://github.com/clobrano-forks) on GitHub
 
 
