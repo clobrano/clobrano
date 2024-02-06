@@ -4,7 +4,8 @@
 ## Hi there, Carlo Lobrano here 👋
 
 ### I'm an Italian Software Engineer
-  
+
+- ✨ I work for Red Hat in Ecosystem Engineering (Kubernetes Workload Availability)
 - 🔧 I develop tools in [Python](https://github.com/clobrano/letsdo), [Golang](https://github.com/clobrano/sendat), and [Bash](https://github.com/clobrano/script-fu).
 - 🌯 ex-[Ubuntu Yaru theme](https://github.com/ubuntu/yaru) maintainer. 
 - 🐙 I have a sub-repository for the [projects I contributed to](https://github.com/clobrano-forks) on GitHub
